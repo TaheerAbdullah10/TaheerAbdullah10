@@ -25,9 +25,9 @@ Currently building hands-on projects across security, C++, Python, SQL, and asse
 | _More coming soon_ | |
 
 ### 🐍 Python
-
 | Project | Description |
 |---|---|
+| [Gesture GIF App](https://github.com/TaheerAbdullah10/Gesture-GIF-App) | AI-powered desktop app that recognizes hand gestures via webcam (MediaPipe + MLP classifier) and fetches matching GIFs straight to your clipboard using the Giphy API. |
 | _Add your Python projects here_ | |
 
 ### 🗄️ SQL
