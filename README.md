@@ -16,10 +16,11 @@ Currently building hands-on projects across security, C++, Python, SQL, and asse
 | _More coming soon_ | |
 
 ### 💻 C++
-
 | Project | Description |
 |---|---|
 | [AERIUS](https://github.com/TaheerAbdullah10/AERIUS-Airline-Booking-System) | Console-based airline booking system in C++ simulating flight booking, ticketing, and login with OOP principles and file handling. |
+| [Library Management System](https://github.com/TaheerAbdullah10/Library-Management-System) | Console-based library system with separate admin/user roles, book search, borrowing with duration tracking, donations, and file-based data persistence. |
+| [Operating System Simulator](https://github.com/TaheerAbdullah10/Operating-System-Simulator) | C++ simulator demonstrating CPU scheduling (FCFS), deadlock avoidance (Banker's Algorithm), and page replacement (Circular Second Chance). |
 | _More coming soon_ | |
 
 ### 🐍 Python
