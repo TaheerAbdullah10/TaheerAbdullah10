@@ -19,7 +19,8 @@ Currently building hands-on projects across security, C++, Python, SQL, and asse
 
 | Project | Description |
 |---|---|
-| _Add your C++ projects here_ | |
+| [AERIUS](https://github.com/TaheerAbdullah10/AERIUS-Airline-Booking-System.git) | | Console-based airline booking system in C++ simulating flight booking, ticketing, and login with OOP principles and file handling. | 
+| _More coming soon_ | |
 
 ### 🐍 Python
 
