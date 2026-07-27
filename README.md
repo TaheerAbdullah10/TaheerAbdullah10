@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Taheer Abdullah 👋</h1>
+<h3 align="center">CS Student | Cyber Security Enthusiast</h3>
 
-<!--
-**TaheerAbdullah10/TaheerAbdullah10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about cybersecurity, systems programming, and low-level computing.
+Currently building hands-on projects across security, C++, Python, SQL, and assembly.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Cyber Security
+
+| Project | Description |
+|---|---|
+| [CodeAlpha_NetworkSniffer](https://github.com/TaheerAbdullah10/CodeAlpha_NetworkSniffer) | A Python-based packet sniffer built with Scapy — captures live traffic, identifies protocols (TCP/UDP/ICMP), extracts IPs/ports, and previews payloads. Built for the CodeAlpha Cyber Security Internship. |
+| _More coming soon_ | |
+
+### 💻 C++
+
+| Project | Description |
+|---|---|
+| _Add your C++ projects here_ | |
+
+### 🐍 Python
+
+| Project | Description |
+|---|---|
+| _Add your Python projects here_ | |
+
+### 🗄️ SQL
+
+| Project | Description |
+|---|---|
+| _Add your SQL projects here_ | |
+
+### ⚙️ Assembly Language
+
+| Project | Description |
+|---|---|
+| _Add your Assembly projects here_ | |
+
+---
+
+### 🛠️ Skills
+
+**Languages:** C++, Python, SQL, Assembly
+**Security:** Network Security, Ethical Hacking, Vulnerability Assessment, Threat Detection
+**Tools:** Scapy, Wireshark, Git/GitHub, Kali Linux
