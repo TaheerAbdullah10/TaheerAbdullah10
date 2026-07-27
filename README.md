@@ -9,10 +9,10 @@ Currently building hands-on projects across security, C++, Python, SQL, and asse
 ---
 
 ### 🔐 Cyber Security
-
 | Project | Description |
 |---|---|
 | [CodeAlpha_NetworkSniffer](https://github.com/TaheerAbdullah10/CodeAlpha_NetworkSniffer) | A Python-based packet sniffer built with Scapy — captures live traffic, identifies protocols (TCP/UDP/ICMP), extracts IPs/ports, and previews payloads. Built for the CodeAlpha Cyber Security Internship. |
+| [Sports Complex Network Design](https://github.com/TaheerAbdullah10/Sports-Complex-Network-Design) | WAN network design built in Cisco Packet Tracer — connects a head office and three branch offices for a multi-site sports organization, with routing, subnetting, and role-based access. |
 | _More coming soon_ | |
 
 ### 💻 C++
