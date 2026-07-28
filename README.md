@@ -37,10 +37,11 @@ Currently building hands-on projects across security, C++, Python, SQL, and asse
 | _More coming soon_ | |
 
 ### ⚙️ Assembly Language
-
 | Project | Description |
 |---|---|
-| _Add your Assembly projects here_ | |
+| [WPM Tester](https://github.com/TaheerAbdullah10/WPM-Tester-Assembly) | Menu-driven typing speed tester written in 8086 Assembly (MASM/EMU8086), using BIOS timer interrupts for live WPM calculation. |
+| [CPU Performance Analyzer](https://github.com/TaheerAbdullah10/CPU-Performance-Analyzer) | Software CPU simulator modeling registers, ALU instruction latencies, a direct-mapped cache, and 2-bit branch prediction, with a 6-panel performance dashboard. |
+| _More coming soon_ | |
 
 ---
 
