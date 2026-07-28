@@ -31,10 +31,10 @@ Currently building hands-on projects across security, C++, Python, SQL, and asse
 | _More coming soon_ | |
 
 ### 🗄️ SQL
-
 | Project | Description |
 |---|---|
-| _Add your SQL projects here_ | |
+| [Resort Booking System](https://github.com/TaheerAbdullah10/Resort-Booking-System) | SQL Server database design for a resort booking system — schema, constraints, joins, subqueries, user-defined functions, stored procedures, and triggers. |
+| _More coming soon_ | |
 
 ### ⚙️ Assembly Language
 
