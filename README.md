@@ -11,6 +11,7 @@ Currently building hands-on projects across security, C++, Python, SQL, and asse
 ### 🔐 Cyber Security
 | Project | Description |
 |---|---|
+| [Network-Intrusion-Detection-System](https://github.com/TaheerAbdullah10/Network-Intrusion-Detection-System) | A network-based Intrusion Detection System built on Suricata with 50k+ detection rules — features real-time automated IP blocking with severity-based logic and auto-expiry, desktop alerts, and a live auto-refreshing analytics dashboard. |
 | [CodeAlpha_NetworkSniffer](https://github.com/TaheerAbdullah10/CodeAlpha_NetworkSniffer) | A Python-based packet sniffer built with Scapy — captures live traffic, identifies protocols (TCP/UDP/ICMP), extracts IPs/ports, and previews payloads. Built for the CodeAlpha Cyber Security Internship. |
 | [CodeAlpha_SecureCodingReview](https://github.com/TaheerAbdullah10/CodeAlpha_SecureCodingReview) | A secure code review project analyzing a C++ Library Management System for vulnerabilities — includes an automated Python scanner, detailed findings report, and remediation recommendations. Built for the CodeAlpha Cyber Security Internship. |
 | [Sports Complex Network Design](https://github.com/TaheerAbdullah10/Sports-Complex-Network-Design) | WAN network design built in Cisco Packet Tracer — connects a head office and three branch offices for a multi-site sports organization, with routing, subnetting, and role-based access. |
